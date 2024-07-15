@@ -7,3 +7,5 @@ Diced Onions
 6 Pineapple Rings
 Mayo
 Shredded Cheese
+Bread (toasted
+)
