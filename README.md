@@ -1,7 +1,8 @@
 ### This is a LOCAL change :)
 # recipe
 line 2 changed remotely
-Inna's Russian Chicken, Mushroom, and Pineapple Salad
+# Inna's Russian Chicken, Mushroom, and Pineapple Salad
+### Recipe from Inna's mom
 
 A Russian salad good on toasted bread and crackers. Generally served cold, the receipe is easy to make.  
 last line changed locally
