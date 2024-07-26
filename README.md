@@ -19,5 +19,7 @@ last line changed locally
 - To make the dish faster, *mix* the chicken with the mayo prior to putting the layers in
 - **Siracha sauce** or **pepper flakes** goes well with the dish
 - Don't be afraid of adding *too much* mayo
+
+![Russian Chicken, Mushroom, and Pineapple Salad]
   
 ### This is a REMOTE change :O
