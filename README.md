@@ -20,6 +20,6 @@ last line changed locally
 - **Siracha sauce** or **pepper flakes** goes well with the dish
 - Don't be afraid of adding *too much* mayo
 
-![Russian Chicken, Mushroom, and Pineapple Salad](Desktop/recipe/recipe.jpg)
+![Russian Chicken, Mushroom, and Pineapple Salad](recipe.jpg)
 
 ### This is a REMOTE change :O
